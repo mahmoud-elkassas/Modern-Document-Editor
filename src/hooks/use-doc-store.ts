@@ -32,7 +32,7 @@ const initialHeaderFooterSettings: HeaderFooterSettings = {
 const initialMetadata: DocMetadata = {
   title: "The Docs Title",
   lastUpdated: new Date(),
-  author: "Faisal Alqarni",
+  author: "By.......",
   theme: "#ffffff",
   headerContent: "",
   footerContent: "",
