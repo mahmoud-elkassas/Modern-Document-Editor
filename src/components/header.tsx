@@ -298,8 +298,7 @@ export const Header = ({ onHistoryClick, onCommentsClick }: HeaderProps) => {
             </span>
           </div>
           <div className="mt-1 text-sm text-gray-500">
-            Last Updated {formatDate(metadata.lastUpdated)} • By{" "}
-            {metadata.author}
+            Last Updated {formatDate(metadata.lastUpdated)}
           </div>
         </div>
         <div className="flex items-center gap-3">
